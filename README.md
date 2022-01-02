@@ -14,7 +14,7 @@ I'm very please to listen to your advices to improve files and material publishe
 ---
 ## I'm a Husband and CyberSecurity Lover!
 - 🌱 I'm currently busy learning a lot of new things like ParrotOS, Kali Linux, Python and Bash Shell!
-- 🥅 2022 Goals: eJPT and PCAP certifications, with many exams at University
+- 🥅 2022 Goals: eJPT and PCAP certifications, with many exams at University! Maybe, CySA+!
 
 ### Connect with me:
 
