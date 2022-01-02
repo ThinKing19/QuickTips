@@ -12,7 +12,7 @@ I'm very please to listen to your advices to improve files and material publishe
 [![LinkedIn](https://img.shields.io/website?label=linkedin.com/in/gabriele-milito/&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriele-milito%2F)](https://www.linkedin.com/in/gabriele-milito/)
 
 ## I'm a Husband and CyberSecurity Lover!
-- 🌱 I'm currently busy learning a lot of new things
+- 🌱 I'm currently busy learning a lot of new things like ParrotOS, Kali Linux, Python and Bash Shell!
 - 🥅 2022 Goals: eJPT and PCAP certifications, with many exams at University
 
 ### Connect with me:
@@ -44,29 +44,9 @@ I'm very please to listen to your advices to improve files and material publishe
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.ilmilitonoto.it/)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.ilmilitonoto.it/
 [linkedin]: https://www.linkedin.com/in/gabriele-milito/
