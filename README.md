@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriele - aka [ThinKing19][website] 👋 
+### Hi there, I'm Gabriele Milito - aka [ThinKing19][website] 👋 
 
 # QuickTips
 Quick Tips & Tricks, ready to use!
@@ -9,7 +9,7 @@ I'm very please to listen to your advices to improve files and material publishe
 Play Safe & Hack Ethically!
 
 [![Website](https://img.shields.io/website?label=ilmilitonoto.it&style=for-the-badge&url=https%3A%2F%2Fwww.ilmilitonoto.it%2F)](https://www.ilmilitonoto.it/)
-[![LinkedIm](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![LinkedIn](https://img.shields.io/website?label=linkedin.com/in/gabriele-milito/&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriele-milito%2F)](https://www.linkedin.com/in/gabriele-milito/)
 
 ## I'm a Husband and CyberSecurity Lover!
 
