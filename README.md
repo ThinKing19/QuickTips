@@ -1,5 +1,16 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
 
+# QuickTips
+Quick Tips & Tricks, ready to use!
+
+In this repository you can find many usefull file! You can download freely and play with them!
+I'm very please to listen to your advices to improve files and material published.
+
+Best Regards
+Gabriele "ThinKing19" Milito
+
+Play Safe & Hack Ethically!
+
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
