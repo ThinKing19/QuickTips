@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# enable LongPaths over 255-260 characters (run when command "WINVER" show version > than 14352 in Windows 10)
+   
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"LongPathsEnabled"=dword:00000001
