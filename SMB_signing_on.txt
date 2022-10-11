@@ -1,0 +1,4 @@
+## set 'Microsoft network server: Digitally sign communications (always)'
+
+On a domain: set a GPO for all server in Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options
+On single machine: open gpedit.msc -> on each client/server and follow the same path to set it locally
